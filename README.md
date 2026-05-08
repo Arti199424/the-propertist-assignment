@@ -31,9 +31,40 @@ npm run preview
 
 ## GitHub Pages
 
-This project is configured for a repository named `the-propertist-assignment`.
-After pushing to GitHub, enable Pages with source set to `GitHub Actions`.
-The live URL will be:
+GitHub repository:
+
+```text
+https://github.com/Arti199424/the-propertist-assignment
+```
+
+GitHub Pages live URL:
+
+```text
+https://arti199424.github.io/the-propertist-assignment/
+```
+
+## Vercel Deployment
+
+This Vite project is ready for Vercel. Use these settings:
+
+```text
+Framework Preset: Vite
+Build Command: npm run build
+Output Directory: dist
+Install Command: npm install
+```
+
+The Vite config automatically uses `/` as the base path on Vercel.
+
+## Submission
+
+GitHub repository link:
+
+```text
+https://github.com/Arti199424/the-propertist-assignment
+```
+
+Live link:
 
 ```text
 https://arti199424.github.io/the-propertist-assignment/
