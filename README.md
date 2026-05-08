@@ -45,7 +45,19 @@ https://arti199424.github.io/the-propertist-assignment/
 
 ## Vercel Deployment
 
-This Vite project is ready for Vercel. Use these settings:
+Vercel live URL:
+
+```text
+https://the-propertist-assignment.vercel.app
+```
+
+Vercel project dashboard:
+
+```text
+https://vercel.com/arti-yadavs-projects/the-propertist-assignment
+```
+
+This Vite project uses these Vercel settings:
 
 ```text
 Framework Preset: Vite
@@ -65,6 +77,12 @@ https://github.com/Arti199424/the-propertist-assignment
 ```
 
 Live link:
+
+```text
+https://the-propertist-assignment.vercel.app
+```
+
+Alternate GitHub Pages live link:
 
 ```text
 https://arti199424.github.io/the-propertist-assignment/
